@@ -1,0 +1,28 @@
+﻿'HTML' stands for Hyper Text Markup Language and it talks about 'the structure of the web page'.It consists of series of elements and HTML elements tell the browser how to display the content in the webpage and
+ '<!DOCTYPE html>' defines that this document is an HTML5 document.'<html>' is the root element of HTML page.'<head>' element contains meta information aboutthe HTML page.'<title>' element describes the 
+title of an webpage.'<body>' element contains all the code visible in it like paragraphs,headings etc..
+FOR EXAMPLE:-
+(Writing about the HEADINGS and PARAGRAPH) 
+
+<DOCTYPE html>
+<html>
+<head>
+<title>This is the title</title>
+</head>
+<body>
+<h1>HELLO</h1> (This has the large size)
+<h2>HELLO</h2>
+<h3>HELLO</h3
+<h4>HELLO</h4>
+<h5>HELLO</h5>
+<h6>HELLO</h6> (this has the small size)
+<p>This is the paragraph</p>
+</body>
+</html>
+
+
+                
+   
+
+
+ 
